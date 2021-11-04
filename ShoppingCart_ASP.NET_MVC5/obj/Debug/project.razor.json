@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\RN789TB\\source\\repos\\ASP.NET_MVC5-ShoppingCart\\ShoppingCart_ASP.NET_MVC5\\ShoppingCart_ASP.NET_MVC5.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
